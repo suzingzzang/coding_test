@@ -10,4 +10,4 @@ def solution(array):
         return -1
     else :
         answer = temp_list.index(max(temp_list))
-    return array[answer]
+    return array_[answer]
