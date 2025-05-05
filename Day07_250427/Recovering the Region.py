@@ -38,3 +38,10 @@ for i in range(N):
 
 for k in zone:
     print(*k)
+    /////////////////////////////////////////////////////////
+    import sys
+input = sys.stdin.readline
+
+n = int(input()) 
+for i in range(n):
+    print(' '.join([str(i+1)] * n))
