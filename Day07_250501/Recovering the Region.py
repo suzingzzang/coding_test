@@ -1,5 +1,6 @@
 # https://softeer.ai/app/assessment/index.html?xid=462240&xsrfToken=K3XblYfSES506gGsk1p2ZociMxkBdYC6&testType=practice
 
+
 import sys
 from collections import deque
 input = sys.stdin.readline
